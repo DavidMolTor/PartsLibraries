@@ -1,0 +1,363 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP MMBT5088LT1G
+D ON Semi MMBT5088LT1G NPN Bipolar Transistor, 50 mA, 30 V, 3-Pin SOT-23
+K
+F https://componentsearchengine.com/Datasheets/2/MMBT5088LT1G.pdf
+$ENDCMP
+#
+$CMP MMBFJ310LT1G
+D Transistor JFET N-Channel 25V SOT23 ON Semiconductor MMBFJ310LT1G N-channel JFET Transistor, Idss 24  60mA, 25 V, 3-Pin SOT-23
+K
+F http://www.onsemi.com/pub/Collateral/MMBFJ309LT1-D.PDF
+$ENDCMP
+#
+$CMP SR1712F-0103-15F0A-N9-N-027
+D Rotary Switches 1 POLE 3 POS D SHAFT
+K
+F 
+$ENDCMP
+#
+$CMP MC14015BDG
+D ON Semiconductor MC14015BDGDual 4-stage Divide-By-N Shift Register, Serial/Parallel, Uni-Directional, 16-Pin SOIC
+K
+F http://www.onsemi.com/pub/Collateral/MC14015B-D.PDF
+$ENDCMP
+#
+$CMP BC848B
+D Bipolar Transistors - BJT BJT, SOT-23, 30V, 100mA, NPN
+K
+F https://assets.nexperia.com/documents/data-sheet/BC848_SER.pdf
+$ENDCMP
+#
+$CMP LM301ADR2G
+D ON Semiconductor LM301ADR2G Op Amp, 8-Pin SOIC
+K
+F https://www.onsemi.com/pub/Collateral/LM301A-D.PDF
+$ENDCMP
+#
+$CMP TL071CDR
+D Low-Noise JFET-Input General-Purpose Operational Amplifier
+K
+F http://www.ti.com/lit/gpn/tl071
+$ENDCMP
+#
+$CMP DG9424EDQ-T1-GE3
+D Analog Switch ICs Mono quad SPST Pd 450mW TSSOP-16
+K
+F 
+$ENDCMP
+#
+$CMP 1N914TAP
+D Diodes - General Purpose, Power, Switching 100 Volt 300mA
+K
+F http://www.vishay.com/docs/85622/1n914.pdf
+$ENDCMP
+#
+$CMP SMMBT2222ALT1G
+D General Purpose Transistors NPN Silicon
+K
+F http://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF
+$ENDCMP
+#
+$CMP BU4S01G2-TR
+D Logic Gates IC NOR SGL 2INPUT
+K
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/logic_switch/standard_logic/bu4s01g2tr-e.pdf
+$ENDCMP
+#
+$CMP 2355045-4
+D 4P,2MM,BRK HDR,SRVT,2.8,0.1AU,TB
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2355045&DocType=Customer+Drawing&DocLang=English&PartCntxt=2355045-4&DocFormat=pdf
+$ENDCMP
+#
+$CMP 87224-2
+D Mod II Header,vertical,1row,2way
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/3b9b08c08f06dc562fe3ba32b60fa864.pdf
+$ENDCMP
+#
+$CMP 87224-4
+D TE Connectivity AMPMODU Series, 2.54mm Pitch 4 Way 1 Row Straight PCB Header, Through Hole Termination
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F87224%7FM%7Fpdf%7FEnglish%7FENG_CD_87224_M.pdf%7F87224-4
+$ENDCMP
+#
+$CMP 5-146285-6
+D 06 MODII HDR SRST B/A .100CL
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=146285&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+$CMP T491A106K016AT
+D T491, Tantalum, MnO2 Tantalum, Commercial Grade, 10 uF, 10%, 16 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, 6 % , 3 Ohms, 1600 nA, 58.6 mg, 3216, 1.6mm, Height Max = 1.8mm, 2000, 156  Weeks
+K
+F https://content.kemet.com/datasheets/KEM_T2005_T491.pdf
+$ENDCMP
+#
+$CMP 5-103765-8
+D AMP - TE CONNECTIVITY - 5-103765-8 . - CONNECTOR, 8POS, HEADER, 2.54MM, 1ROW
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F103765%7FH%7Fpdf%7FEnglish%7FENG_CD_103765_H_baseFilename.pdf%7F5-103765-8
+$ENDCMP
+#
+$CMP 87220-8
+D AMPMODU II Pin Header 2.54mm 8P TE Connectivity AMPMODU Mod II Series, 2.54mm Pitch 8 Way 1 Row Straight PCB Header, Through Hole, Solder Termination
+K
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F87220%7FK3%7Fpdf%7FEnglish%7FENG_CD_87220_K3.pdf%7F87220-8
+$ENDCMP
+#
+$CMP 87220-6
+D TE Connectivity Mod II Series, 2.54mm Pitch 6 Way 1 Row Straight PCB Header, Solder Termination, 3A
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=87220&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=87220-6
+$ENDCMP
+#
+$CMP 87220-4
+D TE Connectivity AMPMODU Series, 2.54mm Pitch 4 Way 1 Row Straight PCB Header, Through Hole Termination
+K
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F87220%7FK3%7Fpdf%7FEnglish%7FENG_CD_87220_K3.pdf%7F87220-4
+$ENDCMP
+#
+$CMP 87220-3
+D Mod II Header,vertical,1row,3way
+K
+F https://www.arrow.com/en/products/87220-3/te-connectivity
+$ENDCMP
+#
+$CMP 87220-1
+D AMP - TE CONNECTIVITY - 87220-1 - BOARD-BOARD CONNECTOR HEADER, 1 POSITION, 1ROW
+K
+F 
+$ENDCMP
+#
+$CMP PTL20-15O0-104B1
+D 100 kOhms 0.05W, 1/20W Through Hole Slide Potentiometer Top Adjustment Type 
+K
+F https://www.bourns.com/docs/Product-Datasheets/PTL.pdf
+$ENDCMP
+#
+$CMP PTL60-15O1-104B2
+D Res Carbon Film POT 100K Ohm 20% 0.2W(1/5W) (75 X 9 X 22mm) Pin Thru-Hole
+K
+F https://www.bourns.com/docs/product-datasheets/ptl.pdf?sfvrsn=10cbbd87_6
+$ENDCMP
+#
+$CMP PTL45-15O0-104B1
+D Res Carbon Film POT 100K Ohm 20% 0.125W(1/8W) (60 X 9 X 22mm) Pin Thru-Hole
+K
+F https://www.bourns.com/docs/Product-Datasheets/PTL.pdf
+$ENDCMP
+#
+$CMP PTL30-15R0-103B1
+D Res Carbon Film POT 10K Ohm 20% 0.1W(1/10W) (45 X 9 X 22mm) Pin Thru-Hole
+K
+F https://www.bourns.com/docs/Product-Datasheets/PTL.pdf
+$ENDCMP
+#
+$CMP 87224-5
+D 05 MODII HDR SRST UNSHRD .100
+K
+F https://www.arrow.com/en/products/87224-5/te-connectivity
+$ENDCMP
+#
+$CMP MAX1044CSA+
+D Switched-Capacitor Voltage Converters
+K
+F http://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf
+$ENDCMP
+#
+$CMP 1-2199298-2
+D TE CONNECTIVITY - 1-2199298-2 - IC SOCKET, DIP, 8POS, TH
+K
+F https://componentsearchengine.com/Datasheets/2/1-2199298-2.pdf
+$ENDCMP
+#
+$CMP S1A-13-F
+D Diodes Inc S1A-13-F, SMT Switching Diode, 50V 1A, 3000ns, 2-Pin DO-214AC
+K
+F https://componentsearchengine.com/Datasheets/2/S1A-13-F.pdf
+$ENDCMP
+#
+$CMP S1AB-13-F
+D Diode Switching 50V 1A 2Pin SMB Diodes Inc S1AB-13-F Switching Diode, 1A 50V, 2-Pin SMB
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-0/sf-0003177.pdf
+$ENDCMP
+#
+$CMP EG6201
+D Slide Switches 6P2T R/A PC MOUNT
+K
+F https://componentsearchengine.com/Datasheets/1/EG6201.pdf
+$ENDCMP
+#
+$CMP MINIASMDC050F-2
+D PTC Resettable Fuse 0.5A(hold) 1A(trip) 24VDC 100A 0.8W 0.15s 0.15Ohm SMD Solder Pad 4.73 X 3.41 X 0
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_miniasmdc_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP BSS84AK,215
+D BSS84AK,215 P-Channel MOSFET, 180 mA, 50 V, 3-Pin SOT-23 Nexperia
+K
+F 
+$ENDCMP
+#
+$CMP MMSZ5248B-E3-08
+D VISHAY - MMSZ5248B-E3-08 - ZENER DIODE, 18V, 0.5W, SOD-123
+K
+F https://www.vishay.com/docs/85774/mmsz5225.pdf
+$ENDCMP
+#
+$CMP PTV112-4420A-B104
+D Potentiometers PANEL CONTROL 100kOhm
+K
+F https://www.bourns.com/docs/Product-Datasheets/PTVPTT.pdf
+$ENDCMP
+#
+$CMP 2SK208-R_TE85L,F_
+D JFET Junction FET N-Ch 0.3 to 6.5mA 10mA
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=19660&prodName=2SK208
+$ENDCMP
+#
+$CMP SRBV160803
+D Alps Electric, 6 Position SP6T Rotary Switch, 300 mA, Pc Pin
+K
+F https://www.mouser.co.uk/datasheet/2/15/SRBV-1370704.pdf
+$ENDCMP
+#
+$CMP SRBV181004
+D Alps Electric, 8 Position SP8T Rotary Switch, 300 mA, Pc Pin
+K
+F https://componentsearchengine.com/Datasheets/1/SRBV181004.pdf
+$ENDCMP
+#
+$CMP 3362P-1-201LF
+D Bourns 3362P Series Through Hole Trimmer Resistor with Pin Terminations, 200 +/-10% 0.5W +/-100ppm/C Top Adjust
+K
+F https://www.bourns.com/docs/Product-Datasheets/3362.pdf
+$ENDCMP
+#
+$CMP MIMXRT1175DVMAA
+D ARM Microcontrollers - MCU i.MX RT1170 crossover MCU, Arm Cortex-M7
+K
+F https://www.nxp.com.cn/docs/en/data-sheet/IMXRT1170CEC.pdf
+$ENDCMP
+#
+$CMP BZX384-A5V1-QX
+D Voltage regulator diodes
+K
+F https://assets.nexperia.com/documents/data-sheet/BZX384-Q_SER.pdf
+$ENDCMP
+#
+$CMP 2SK3018-TP
+D N-Channel 30 V 100mA (Ta) 200mW (Ta) Surface Mount SOT-323
+K
+F https://mccsemi.com/pdf/Products/2SK3018(SOT-323).pdf
+$ENDCMP
+#
+$CMP TL074IDR
+D Quad Low-Noise JFET-Input General-Purpose Operational Amplifier
+K
+F http://www.ti.com/lit/ds/symlink/tl074.pdf
+$ENDCMP
+#
+$CMP LM2611BMFX_NOPB
+D 1.4MHz Cuk Converter
+K
+F http://www.ti.com/lit/gpn/lm2611
+$ENDCMP
+#
+$CMP VLCF4020T-100MR85
+D TDK VLCF Series Shielded Wire-wound SMD Inductor 10 uH +/-20% Wire-Wound 1.22A Idc
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vlcf4020_en.pdf
+$ENDCMP
+#
+$CMP TMUX7209RUMR
+D Analogue Switch ICs 44-V, latch-up Immune, 4:1, two-channel precision multiplexer with 1.8-V logic 16-WQFN -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/tmux7209.pdf?ts=1636392293138&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTMUX7209
+$ENDCMP
+#
+$CMP TMUX6234RRQR
+D 2.2-NV/HZ, LOW-POWER, 36-V OPERA
+K
+F https://www.ti.com/lit/gpn/tmux6234
+$ENDCMP
+#
+$CMP DG454EQ-T1-E3
+D Analog Switch ICs Hi-Volt Quad SPST
+K
+F https://componentsearchengine.com/Datasheets/1/DG454EQ-T1-E3.pdf
+$ENDCMP
+#
+$CMP NR6045T220M
+D TAIYO YUDEN - NR6045T220M - INDUCTOR, SHIELDED, 22UH, 1.9A, SMD
+K
+F 
+$ENDCMP
+#
+$CMP MMSZ5248BT1G
+D Zener Diode 500 mW SOD-123
+K
+F http://www.onsemi.com/pub/Collateral/MMSZ5221BT1-D.PDF
+$ENDCMP
+#
+$CMP TS3704IDT
+D Micropower quad CMOS voltage comparator
+K
+F https://componentsearchengine.com/Datasheets/1/TS3704IDT.pdf
+$ENDCMP
+#
+$CMP PEC11R-4220F-S0024
+D Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft (Not Indexed), Through Hole
+K
+F https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf
+$ENDCMP
+#
+$CMP USB4125-GF-A
+D USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Position Surface Mount, Right Angle; Through Hole
+K
+F https://gct.co/files/drawings/usb4125.pdf?v=f2858e04-a173-4b74-b17f-8f865ddc3728
+$ENDCMP
+#
+$CMP ASMB-MTB1-0B3A2
+D Standard LEDs - SMD PLCC4,T/Mt,BS/WF Silicone RGB
+K
+F https://docs.broadcom.com/doc/AV02-4194EN
+$ENDCMP
+#
+$CMP TPD2E001DRLR
+D Low-Capacitance 2-Channel +/-15kV ESD Protection Array for High-Speed Data Interfaces
+K
+F http://www.ti.com/lit/ds/symlink/tpd2e001.pdf
+$ENDCMP
+#
+$CMP TPD2E001DZDR
+D Low-Capacitance 2-Channel +/-15kV ESD Protection Array for High-Speed Data Interfaces
+K
+F http://www.ti.com/lit/gpn/tpd2e001
+$ENDCMP
+#
+$CMP ECS-250-6-33B2-CTP-TR
+D 25 MHz +/-10ppm Crystal 6pF 40 Ohms 4-SMD, No Lead
+K
+F https://ecsxtal.com/products/crystals/surface-mount-crystals/ecs-250-6-33b2-ctp-tr
+$ENDCMP
+#
+$CMP SJ3-35083A-TR
+D Phone Connectors Audio Jack, 3.5mm, Through Hole, 3 Conductors, 0 Switches
+K
+F https://www.cuidevices.com/product/resource/sj3-3508x.pdf
+$ENDCMP
+#
+#End Doc Library
