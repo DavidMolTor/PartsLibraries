@@ -1,0 +1,235 @@
+(footprint "L_THT_Toroid_14.0mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "2200LL-470-V-RC-3")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 5.969 0 0)
+		(layer "F.SilkS")
+		(uuid "c7f95348-2ef7-4e4a-a6ff-904eb8e1ba04")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "2200LL470VRC"
+		(at 5.969 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6faee8c6-0562-4e6d-a352-639eb5cdfd0f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9938a52-34eb-4176-ad26-db35cf200a72")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f564d070-f2d3-434e-b5bc-b938cd6325f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.031 2)
+		(end -1.016 13.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "02910143-796a-4e41-8406-5050afcf11bb")
+	)
+	(fp_line
+		(start -1.016 -13.97)
+		(end 12.954 -13.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1908afc-ed25-432d-8dc5-fbb6186a246e")
+	)
+	(fp_line
+		(start -1.016 -1.5)
+		(end -1.016 -13.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a558803-6bbb-4ad4-97f0-dc315b7eb211")
+	)
+	(fp_line
+		(start -1.016 13.97)
+		(end 12.954 13.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d97273c7-549c-4b5a-afe2-5660840dba26")
+	)
+	(fp_line
+		(start 12.954 -13.97)
+		(end 12.954 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9bc481ac-c150-4edf-a1dd-7f2bb600be10")
+	)
+	(fp_line
+		(start 12.954 13.97)
+		(end 12.954 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a045d13-1b9c-4054-b606-0733c4132b66")
+	)
+	(fp_line
+		(start -2.159 -14.97)
+		(end 14.098 -14.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d9f61175-04c6-4ee9-972d-570d9646eedd")
+	)
+	(fp_line
+		(start -2.159 14.97)
+		(end -2.159 -14.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "082ab532-b1c3-4013-8b44-1b42d3c225aa")
+	)
+	(fp_line
+		(start 14.098 -14.97)
+		(end 14.098 14.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1bc2e6ec-6200-4a23-a72a-1e738e54926d")
+	)
+	(fp_line
+		(start 14.098 14.97)
+		(end -2.159 14.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8476923b-9587-4e75-821d-dbb442257961")
+	)
+	(fp_line
+		(start -1.016 -13.97)
+		(end -1.016 13.97)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7f13531f-5461-4014-bd46-874ab5664071")
+	)
+	(fp_line
+		(start -1.016 13.97)
+		(end 12.954 13.97)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a21a743b-41cc-408e-a108-e0056dc22301")
+	)
+	(fp_line
+		(start 12.954 -13.97)
+		(end -1.016 -13.97)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6d70041f-48e7-4e0e-a567-848cc2395f63")
+	)
+	(fp_line
+		(start 12.954 13.97)
+		(end 12.954 -13.97)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a8255136-8f63-4445-a77c-2a472d450904")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5.969 0 0)
+		(layer "F.Fab")
+		(uuid "d58c3bd1-4d32-4560-8b55-7ab4796d4682")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.319 2.319)
+		(drill 1.5462)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "44333941-d2a2-4a10-a706-d400a6c0a6ce")
+	)
+	(pad "2" thru_hole circle
+		(at 11.938 0)
+		(size 2.319 2.319)
+		(drill 1.5462)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fcd38bbe-b30e-47b4-bf9c-3c4a773e4d6e")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/L_THT_Toroid_14.0mm.stp"
+		(offset
+			(xyz -0.6700000066 0 14.52999951)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 0 -90)
+		)
+	)
+)

@@ -1,0 +1,235 @@
+(footprint "JST_ZH_B2BZR_1x02_P1.50MM_VERTICAL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "JST ZH series connector, B2B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf), generated with kicad-footprint-generator")
+	(tags "connector JST ZH vertical")
+	(property "Reference" "REF**"
+		(at 0.75 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "c521012f-157d-4251-ba34-e3bfcc38f764")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "JST_ZH_B2BZR_1x02_P1.50MM_VERTICAL"
+		(at 0.75 3.4 0)
+		(layer "F.Fab")
+		(uuid "3887ca53-5479-42dc-9918-ddbb0faf9f86")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b5e15e4-86a1-47c7-a517-2a345e59b504")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b33a9e71-6f33-416b-a7aa-aa485cf324e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.61 -1.41)
+		(end -1.61 2.31)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "953b6c90-c9ff-4bad-bb2e-b9188422ca8e")
+	)
+	(fp_line
+		(start -1.61 2.31)
+		(end 3.11 2.31)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2283b809-dca7-4cca-88a4-a043117557d4")
+	)
+	(fp_line
+		(start 3.11 -1.41)
+		(end -1.61 -1.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7fd159d6-01f1-4fe3-9410-dad54c9ae72c")
+	)
+	(fp_line
+		(start 3.11 2.31)
+		(end 3.11 -1.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "496c3636-b64b-4062-8414-427898190f7e")
+	)
+	(fp_line
+		(start -2 -1.8)
+		(end -2 2.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "73b0f615-022c-41fb-9c49-924a7b23ed76")
+	)
+	(fp_line
+		(start -2 2.7)
+		(end 3.5 2.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "31afdf50-5213-4875-b344-476cebbfc119")
+	)
+	(fp_line
+		(start 3.5 -1.8)
+		(end -2 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d6e7e731-f18c-4e17-9948-648279dad636")
+	)
+	(fp_line
+		(start 3.5 2.7)
+		(end 3.5 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8d4b7885-35f0-461d-98a2-d4c05b8bdc3a")
+	)
+	(fp_line
+		(start -1.81 -1.61)
+		(end -1.81 -0.81)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "059c61e0-c3d4-4072-902c-4f838885eb45")
+	)
+	(fp_line
+		(start -1.5 -1.3)
+		(end -1.5 2.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5889c335-70ef-467f-bbe2-bf0ee0482c83")
+	)
+	(fp_line
+		(start -1.5 2.2)
+		(end 3 2.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a17220a0-2a88-4b94-8cf9-01b26c19f936")
+	)
+	(fp_line
+		(start -1.01 -1.61)
+		(end -1.81 -1.61)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "62d6a8c6-1dc1-4c56-9473-0d48dfe01ca9")
+	)
+	(fp_line
+		(start 3 -1.3)
+		(end -1.5 -1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "26d80fdd-e487-434b-9b79-a0d2a3dadf47")
+	)
+	(fp_line
+		(start 3 2.2)
+		(end 3 -1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "01384195-c265-4ec2-8042-a40d662a97a1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.75 1.5 0)
+		(layer "F.Fab")
+		(uuid "04156201-7581-421e-868c-15d5a619921c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.03 1.73)
+		(drill 0.73)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.242718)
+		(uuid "f22804a4-f084-4e74-aa64-69d59909fef0")
+	)
+	(pad "2" thru_hole oval
+		(at 1.5 0)
+		(size 1.03 1.73)
+		(drill 0.73)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "77937c29-06af-40e3-8983-dd05a0aa17c7")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/B2B-ZR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

@@ -1,0 +1,246 @@
+(footprint "XLR_NEUTRIK_NC3FAH2_HOR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah2-0")
+	(tags "neutrik xlr a")
+	(property "Reference" "REF**"
+		(at 4.3 -10 0)
+		(layer "F.SilkS")
+		(uuid "97192e31-8c5c-4aba-b447-cd65d047b970")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XLR_NEUTRIK_NC3FAH2_HOR"
+		(at 4.3 18 0)
+		(layer "F.Fab")
+		(uuid "66f867ba-6bea-4e39-83f1-a8349df66393")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87e0a629-1d65-4a28-bad4-935ac8189c7f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e975cbe-7695-4e2d-96eb-4a0c91966176")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.92 -8.81)
+		(end -6.92 16.73)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e68f4a90-b71f-4ae3-8ae4-c914636c4417")
+	)
+	(fp_line
+		(start 15.52 -8.81)
+		(end -6.92 -8.81)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2aae5381-a3e9-481a-9b5a-c139123f4746")
+	)
+	(fp_line
+		(start 15.52 -8.81)
+		(end 15.52 16.73)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1d786fc4-9162-4d61-bc69-313ea3d93f89")
+	)
+	(fp_line
+		(start 15.52 16.73)
+		(end -6.92 16.73)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "233283c7-13e5-416f-a4cc-b18867bf9c52")
+	)
+	(fp_line
+		(start -7.3 -9.19)
+		(end -7.3 17.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6b4a2bd2-47d3-4520-98d4-178f730a9c29")
+	)
+	(fp_line
+		(start 15.9 -9.19)
+		(end -7.3 -9.19)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b28f8b60-db3a-4dd4-b456-4648c3ab4800")
+	)
+	(fp_line
+		(start 15.9 -9.19)
+		(end 15.9 17.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dbc23984-659c-4fdf-a601-90e8bba5a732")
+	)
+	(fp_line
+		(start 15.9 17.11)
+		(end -7.3 17.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3ae17c72-928b-414b-bc18-e600d7bda17d")
+	)
+	(fp_line
+		(start -6.8 -8.69)
+		(end -6.8 16.61)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b4d8bedf-4dff-41a1-b6e9-06fe39aae201")
+	)
+	(fp_line
+		(start -6.8 -8.69)
+		(end 15.4 -8.69)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "06176f16-f308-4516-9718-b01c4585047b")
+	)
+	(fp_line
+		(start 15.4 -8.69)
+		(end 15.4 16.61)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "22dc13c3-31db-4fca-a9d1-c12e051b9e95")
+	)
+	(fp_line
+		(start 15.4 16.61)
+		(end -6.8 16.61)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d5f3efb-651d-4d74-aad5-651594d96bf3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 10.35 3.81 0)
+		(layer "F.Fab")
+		(uuid "87e8585a-09d5-4048-8ac6-84e7f0a2fbb2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 3.81 7.62)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "96131674-fe32-450f-9838-e7e56e02a672")
+	)
+	(pad "" np_thru_hole circle
+		(at 8.89 0)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "0551866a-a3b0-4576-8bef-c36bb2c0dd6a")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 3.4 3.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a66fd2e4-c3df-434f-a699-804e49edd22d")
+	)
+	(pad "2" thru_hole circle
+		(at -0.635 7.62)
+		(size 3.4 3.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "103b083d-f03b-4063-8cab-65fdd64cf7c5")
+	)
+	(pad "3" thru_hole circle
+		(at -4.45 3.81)
+		(size 2.9 2.9)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "036088d1-cde4-46f5-a20d-8bb422523695")
+	)
+	(pad "G" thru_hole circle
+		(at 5.72 -4.44)
+		(size 2.9 2.9)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f16bc81f-1bbc-4702-8dc4-f00f9e5d7597")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/NEUTRIK_NC3FAH2.stp"
+		(offset
+			(xyz 12.68 -3.81 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

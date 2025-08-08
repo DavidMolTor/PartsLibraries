@@ -1,0 +1,245 @@
+(footprint "NR6045T220M"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "NR6045T220M-3")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "3003b3c8-6962-427b-90c1-093cb8bc6f4f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "NR6045T220M"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2adf4fbe-1f6c-4295-8add-66e6aef844bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8de206e1-5572-453d-8932-fc98e2e44a25")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ff26f08-595a-4524-aa05-4144f9f101b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41a7f509-82ac-4edc-8ebe-f5833993cfdb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1 -3)
+		(end 1 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bb5bd6ce-b30b-489e-9d61-8e2f33f72282")
+	)
+	(fp_line
+		(start -1 3)
+		(end 1 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f995e6c6-a0ea-40f1-b82a-f422ab943d1d")
+	)
+	(fp_line
+		(start -3.65 -3.5)
+		(end 3.65 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b7dd2f09-721c-4747-b371-962df4ba7002")
+	)
+	(fp_line
+		(start -3.65 3.5)
+		(end -3.65 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "41e8189b-631c-4083-ace0-cf3333f204f8")
+	)
+	(fp_line
+		(start 3.65 -3.5)
+		(end 3.65 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dba889b8-5eb7-488d-99db-4f9a033317b5")
+	)
+	(fp_line
+		(start 3.65 3.5)
+		(end -3.65 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3ec86e43-0c44-4e02-af8f-26f26dabbdef")
+	)
+	(fp_line
+		(start -3 -1.5)
+		(end -2 -3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0326a82d-0bcb-47fc-b80b-397eb017eb6f")
+	)
+	(fp_line
+		(start -3 1.5)
+		(end -3 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e84923b0-eead-47e2-b239-d588c755e1c5")
+	)
+	(fp_line
+		(start -2 -3)
+		(end 2 -3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e2be50ee-a13f-4829-89a7-ac5889289474")
+	)
+	(fp_line
+		(start -2 3)
+		(end -3 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8f753bda-69b9-43cc-b446-0c79ad16e68b")
+	)
+	(fp_line
+		(start 2 -3)
+		(end 3 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f8986e6f-2f4c-4289-893b-6a510d15c0a4")
+	)
+	(fp_line
+		(start 2 3)
+		(end -2 3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "12872fbe-b3ea-48ad-bb21-e66d5c8bd9f0")
+	)
+	(fp_line
+		(start 3 -1.5)
+		(end 3 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "748dbe5c-4174-4b4a-b15b-5e3a8557587b")
+	)
+	(fp_line
+		(start 3 1.5)
+		(end 2 3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e01d3b27-efa7-43a9-b147-1e6501b0c11f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7c62f9f5-ada1-4dd4-a70a-22c685801c9c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.35 0)
+		(size 1.6 5.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9813e982-1005-4fbf-a296-c03b1470b238")
+	)
+	(pad "2" smd rect
+		(at 2.35 0)
+		(size 1.6 5.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b228c620-f7e1-445e-a86c-dd2b5da3a5fb")
+	)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/VLCF4020T-100MR85.stp"
+		(offset
+			(xyz 0 0 0.38)
+		)
+		(scale
+			(xyz 1.5 1.5 1.5)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
