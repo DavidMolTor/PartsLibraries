@@ -266,13 +266,13 @@
 	(embedded_fonts no)
 	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/18650_DUAL_HOLDER.stp"
 		(offset
-			(xyz 27.59999997 -2.390000069 0.5099999828)
+			(xyz 27.6 -2.39 0.05)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 0)
+			(xyz -90 -0 -0)
 		)
 	)
 )
