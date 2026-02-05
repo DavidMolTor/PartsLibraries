@@ -560,7 +560,7 @@
 		(uuid "fb0ebd50-33f6-42b1-ad24-64a9bfa06034")
 	)
 	(embedded_fonts no)
-	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/QFN16_P050_3X3.stp"
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/QFN16_P050_3X3.step"
 		(offset
 			(xyz 0 0 0)
 		)
