@@ -660,15 +660,15 @@
 		(uuid "8098d370-ca25-4908-a698-9a782df5078f")
 	)
 	(embedded_fonts no)
-	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/QFN/QFN-28 (4x4x0.5).stp"
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/UFQFPN28.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz -2 2 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz -90 -0 -180)
 		)
 	)
 )
