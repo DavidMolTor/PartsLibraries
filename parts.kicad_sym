@@ -45210,7 +45210,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -11.43 6.35 0)
 				(length 2.54)
 				(name "VIN"
@@ -45354,7 +45354,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 11.43 6.35 180)
 				(length 2.54)
 				(name "VOUT"
@@ -45390,7 +45390,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 11.43 -3.81 180)
 				(length 2.54)
 				(name "FB2"
