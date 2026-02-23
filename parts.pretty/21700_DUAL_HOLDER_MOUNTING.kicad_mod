@@ -52,7 +52,7 @@
 			)
 		)
 	)
-	(attr through_hole)
+	(attr smd)
 	(fp_line
 		(start -42.05 -22.555)
 		(end 42.05 -22.555)
@@ -135,7 +135,7 @@
 	)
 	(fp_circle
 		(center -34 0)
-		(end -30.55 0)
+		(end -31.5 0)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -146,7 +146,7 @@
 	)
 	(fp_circle
 		(center 34 0)
-		(end 37.45 0)
+		(end 36.5 0)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -156,8 +156,8 @@
 		(uuid "e14003d6-22f2-4938-ba66-7fb6a63bbe27")
 	)
 	(fp_line
-		(start -46.82 -23.555)
-		(end 46.82 -23.555)
+		(start -46 -23)
+		(end 46 -23)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -166,8 +166,8 @@
 		(uuid "77e87a4d-6e0e-4c1d-8fa0-5d5e766042f1")
 	)
 	(fp_line
-		(start -46.82 23.555)
-		(end -46.82 -23.555)
+		(start -46 23)
+		(end -46 -23)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -176,24 +176,24 @@
 		(uuid "53639029-8565-4ae4-8ab1-dc7a830a6905")
 	)
 	(fp_line
-		(start 46.82 -23.555)
-		(end 46.82 23.555)
+		(start -46 23)
+		(end 46 23)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "0b0adc4e-9aba-4eb1-8354-08e0c22ed83f")
+		(uuid "29076a72-f698-4d71-9cc6-7efb7088098e")
 	)
 	(fp_line
-		(start 46.82 23.555)
-		(end -46.82 23.555)
+		(start 46 23)
+		(end 46 -23)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "d811b307-5eb2-4608-a64d-86b85a216222")
+		(uuid "8eb0b3d7-0b5b-4b25-9af3-a4ec5e6bb579")
 	)
 	(fp_line
 		(start -42.05 -22.555)
@@ -261,28 +261,28 @@
 		(uuid "969eef3e-d6c4-4571-9e7d-8b54cb738004")
 	)
 	(pad "1" smd rect
-		(at -42.05 -11.28 90)
+		(at -42.05 11.28 90)
 		(size 6.35 7.54)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "496326f5-7474-431d-8358-0c06ff9c9cd9")
+		(uuid "a758af5e-2bb2-4df0-b06f-51971e2236e0")
 	)
 	(pad "2" smd rect
-		(at 42.05 -11.28 90)
-		(size 6.35 7.54)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "e80a9b01-0913-48c4-a689-a4f348e36a22")
-	)
-	(pad "3" smd rect
 		(at 42.05 11.28 90)
 		(size 6.35 7.54)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a48783e4-3f32-456b-ac4d-ba8329a4fd3f")
 	)
-	(pad "4" smd rect
-		(at -42.05 11.28 90)
+	(pad "3" smd rect
+		(at 42.05 -11.28 90)
 		(size 6.35 7.54)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "a758af5e-2bb2-4df0-b06f-51971e2236e0")
+		(uuid "e80a9b01-0913-48c4-a689-a4f348e36a22")
+	)
+	(pad "4" smd rect
+		(at -42.05 -11.28 90)
+		(size 6.35 7.54)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "496326f5-7474-431d-8358-0c06ff9c9cd9")
 	)
 	(embedded_fonts no)
 	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/21700_DUAL_HOLDER_MOUNTING.step"

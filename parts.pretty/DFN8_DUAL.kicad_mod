@@ -1,4 +1,4 @@
-(footprint "PDFN8"
+(footprint "DFN8_DUAL"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "PDFN8"
+	(property "Value" "DFN8_DUAL"
 		(at 0 0.065 0)
 		(layer "F.SilkS")
 		(hide yes)

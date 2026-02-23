@@ -904,7 +904,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Custom_Parts:21700_DUAL_HOLDER"
+		(property "Footprint" "Custom_Parts:21700_DUAL_HOLDER_MOUNTING"
 			(at 21.59 -94.92 0)
 			(effects
 				(font
@@ -1034,14 +1034,14 @@
 			(pin passive line
 				(at 17.78 0 180)
 				(length 2.54)
-				(name "2N"
+				(name "2P"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "3"
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1052,14 +1052,14 @@
 			(pin passive line
 				(at 17.78 -2.54 180)
 				(length 2.54)
-				(name "2P"
+				(name "2N"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "4"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -18549,6 +18549,44 @@
 			)
 		)
 		(symbol "DRV8300D_1_0"
+			(pin no_connect line
+				(at -12.7 17.78 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -12.7 15.24 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
 			(pin input line
 				(at -12.7 11.43 0)
 				(length 2.54)
@@ -18657,8 +18695,44 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at -12.7 -11.43 0)
+				(length 2.54)
+				(name "MODE"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -13.97 0)
+				(length 2.54)
+				(name "DT"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -12.7 -19.05 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -21207,7 +21281,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "HH-16P-CB-TYPE-C"
+		(property "Reference" "J"
 			(at 0 22.225 0)
 			(effects
 				(font
@@ -22340,6 +22414,63 @@
 					)
 				)
 			)
+			(pin no_connect line
+				(at -7.62 -15.24 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -7.62 -17.78 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -7.62 -20.32 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin power_in line
 				(at 0 12.7 270)
 				(length 2.54)
@@ -22369,6 +22500,63 @@
 					)
 				)
 				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 7.62 -15.24 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 7.62 -17.78 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 7.62 -20.32 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -45743,6 +45931,293 @@
 					(effects
 						(font
 							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TPS2121"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -6.858 16.764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TPS2121"
+			(at -6.604 14.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Custom_Parts:VQFN-HR-12_2x2.5mm_P0.5mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps2120.pdf?ts=1770956059109&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FTPS2120"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ".8-V to 22-V Priority Power MUX with Seamless Switchover"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TPS2121_0_0"
+			(rectangle
+				(start -7.62 12.7)
+				(end 7.62 -12.7)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "TPS2121_1_0"
+			(pin power_in line
+				(at -10.16 8.89 0)
+				(length 2.54)
+				(name "IN2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -10.16 3.81 0)
+				(length 2.54)
+				(name "OV1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -10.16 1.27 0)
+				(length 2.54)
+				(name "PR1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 -3.81 0)
+				(length 2.54)
+				(name "IN1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -10.16 -8.89 0)
+				(length 2.54)
+				(name "OV2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -15.24 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 10.16 8.89 180)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 10.16 8.89 180)
+				(length 2.54)
+				(hide yes)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 3.81 180)
+				(length 2.54)
+				(name "CP2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 1.27 180)
+				(length 2.54)
+				(name "ST"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -3.81 180)
+				(length 2.54)
+				(name "SS"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -8.89 180)
+				(length 2.54)
+				(name "ILIM"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.016 1.016)
 						)
 					)
 				)

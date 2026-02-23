@@ -54,6 +54,96 @@
 	)
 	(attr through_hole)
 	(fp_line
+		(start -4.67 3.2)
+		(end -7 3.2)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "f8f58108-3696-402e-b322-fd83613750f0")
+	)
+	(fp_line
+		(start -4.67 3.2)
+		(end -4.67 -3.7)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "494ea13f-61bf-4b83-a2b9-d3fc54ce4401")
+	)
+	(fp_line
+		(start -3.7 -3.7)
+		(end -4.67 -3.7)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "e163385c-7844-497b-95c3-c4224bd7c460")
+	)
+	(fp_line
+		(start -3.7 -3.7)
+		(end -3.7 -3.25)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "c7fe6f6a-314f-47c2-9432-8847b3241a40")
+	)
+	(fp_line
+		(start 3.7 -3.7)
+		(end 3.7 -3.25)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "d5b386b8-92c0-4808-a198-e94723cdb8da")
+	)
+	(fp_line
+		(start 3.7 -3.25)
+		(end -3.7 -3.25)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "d62241c4-1696-4801-a228-79e8b4cc71a6")
+	)
+	(fp_line
+		(start 4.67 -3.7)
+		(end 3.7 -3.7)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "3481106e-2176-4448-99f1-9886e17a68b3")
+	)
+	(fp_line
+		(start 4.67 3.2)
+		(end 4.67 -3.7)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "fdebce08-95b5-4d97-abbe-f2078c3adb1b")
+	)
+	(fp_line
+		(start 4.67 3.2)
+		(end 7 3.2)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "e74df12a-3b3e-448f-95f3-956843dd16b5")
+	)
+	(fp_line
 		(start -7 -5)
 		(end 7 -5)
 		(stroke

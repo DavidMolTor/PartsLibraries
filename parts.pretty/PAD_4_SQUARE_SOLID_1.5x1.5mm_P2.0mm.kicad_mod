@@ -1,0 +1,120 @@
+(footprint "PAD_4_SQUARE_SOLID_1.5x1.5mm_P2.0mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5d3907d4-ae8b-4edb-8b0b-03e02e40da23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PAD_4_SQUARE_SOLID_1.5x1.5mm_P2.0mm"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "90d46df0-d777-477a-bbd3-caedd5c0ad2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca7ee0b0-c4c5-4e78-b5a1-b68c0c57ff46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f160c53-07da-4a6e-b4db-24ebd8a6b66c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -4 -1)
+		(end 4 1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "5af36bfc-90c8-4fae-8f00-940a440b2c21")
+	)
+	(fp_rect
+		(start -3.9 -0.9)
+		(end 3.9 0.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e8b64f4b-0474-4180-bd70-b3bcf14dfa5e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 4.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "34120cc5-9db6-43bc-a87c-b3b18977d81e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -3 0)
+		(size 1.4 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "3eabc560-7df3-4902-be42-72709d379ac9")
+	)
+	(pad "2" smd roundrect
+		(at -1 0)
+		(size 1.4 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "f352b214-dad1-4aef-ba81-c44828a9a2bf")
+	)
+	(pad "3" smd roundrect
+		(at 1 0)
+		(size 1.4 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "e1e0ae53-e2d7-4dd4-8bc4-5d6500412f27")
+	)
+	(pad "4" smd roundrect
+		(at 3 0)
+		(size 1.4 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "5ec99eb7-0a75-4a7a-8af9-0ff498c22c95")
+	)
+	(embedded_fonts no)
+)
