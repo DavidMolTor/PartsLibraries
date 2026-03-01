@@ -91,14 +91,14 @@
 	(pad "1" smd roundrect
 		(at -0.75 0)
 		(size 1 1)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.15)
 		(uuid "3eabc560-7df3-4902-be42-72709d379ac9")
 	)
 	(pad "2" smd roundrect
 		(at 0.75 0)
 		(size 1 1)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.15)
 		(uuid "0c3b8afa-f24f-4e27-b9c6-d4e41f19257e")
 	)
