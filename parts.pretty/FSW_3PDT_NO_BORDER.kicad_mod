@@ -42,7 +42,7 @@
   (pad "7" thru_hole oval (at -5.3 4.8) (size 4 2.6) (drill oval 2.9 1.5) (layers "*.Cu" "*.Mask") (tstamp f423795d-2a23-4f0c-b70b-f3770959ed20))
   (pad "8" thru_hole oval (at 0 4.8) (size 4 2.6) (drill oval 2.9 1.5) (layers "*.Cu" "*.Mask") (tstamp 8a72b6ae-b025-4066-bb62-ae81b23c560c))
   (pad "9" thru_hole oval (at 5.3 4.8) (size 4 2.6) (drill oval 2.9 1.5) (layers "*.Cu" "*.Mask") (tstamp 92e82494-be41-4296-b6a8-b4a7a0e1950f))
-  (model "E:/Otros/Electrónica/LibrariesPCB/Parts.3dshapes/FSW_3PDT.step"
+  (model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/FSW_3PDT.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

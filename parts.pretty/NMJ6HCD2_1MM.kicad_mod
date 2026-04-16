@@ -426,13 +426,13 @@
 	(embedded_fonts no)
 	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/NMJ6HCD2.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz 6.35 -8.1 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 90)
 		)
 	)
 )

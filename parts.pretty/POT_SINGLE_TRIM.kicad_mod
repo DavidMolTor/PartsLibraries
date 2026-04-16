@@ -42,7 +42,7 @@
   (pad "1" thru_hole circle (at -2.54 -3.53) (size 1.12 1.12) (drill 0.69) (layers "*.Cu" "*.Mask") (tstamp a1b397c1-760c-407f-b775-5681592b0fb2))
   (pad "2" thru_hole circle (at 0 -6.07) (size 1.12 1.12) (drill 0.69) (layers "*.Cu" "*.Mask") (tstamp 2c36ba77-09a6-4095-8f96-23c507027d16))
   (pad "3" thru_hole circle (at 2.54 -3.53) (size 1.12 1.12) (drill 0.69) (layers "*.Cu" "*.Mask") (tstamp e63740a4-69be-4918-8f10-4826fdc92073))
-  (model "E:/Otros/Electrónica/LibrariesPCB/Parts.3dshapes/TRIM_3362P.step"
+  (model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/TRIM_3362P.step"
     (offset (xyz 0 3.52 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

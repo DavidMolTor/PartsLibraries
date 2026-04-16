@@ -59,7 +59,7 @@
   (pad "6" thru_hole circle (at -2.5 5 90) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 3bd11e61-d52c-49cd-bf01-cb43af138a6b))
   (pad "MP" thru_hole roundrect (at 7.5 -2.25) (size 4 3) (drill oval 2.1 1.8) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 16ed1ad0-f5ec-4fa0-8945-80ec13f5c38d))
   (pad "MP" thru_hole roundrect (at 7.5 7.25) (size 4 3) (drill oval 2.1 1.8) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 9cc596af-2a8f-4958-a10c-a46287fadaa1))
-  (model "E:/Otros/Electrónica/LibrariesPCB/Parts.3dshapes/RD902F-40-00D.stp"
+  (model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/RD902F-40-00D.stp"
     (offset (xyz 7.5 -2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

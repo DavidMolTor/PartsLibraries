@@ -1,0 +1,163 @@
+(footprint "FOOTSWITCH_MODEL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d796e24e-2160-4a6f-a2fe-8d574c6db8f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "FOOTSWITCH_MODEL"
+		(at 0 1.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c24fbe0a-93b6-4139-951d-ca4d816f6fb2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73f96ade-a191-47bd-969a-4531b9a8fae9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6ee5871-6725-4c93-8f13-0c8e04bbb2d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -20 -6.75)
+		(end -20 6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "05660c7b-3407-4794-8d37-2a87c0126393")
+	)
+	(fp_line
+		(start -20 -6.75)
+		(end 3.85 -6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "64fcbd7b-4ed4-468e-9bfe-450b96ab160e")
+	)
+	(fp_line
+		(start 3.85 6.75)
+		(end -20 6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "4cb8ea36-4579-4c41-87fd-5f431e9fb7d7")
+	)
+	(fp_arc
+		(start 3.85 -6.75)
+		(mid 10.6 0)
+		(end 3.85 6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "ff8e17dd-ab19-4ce2-95d2-07b5a58cc2c6")
+	)
+	(fp_line
+		(start -20 -6.75)
+		(end -20 6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "cce9c3e5-e9a4-407b-ad9d-2ef1f554e81a")
+	)
+	(fp_line
+		(start -20 -6.75)
+		(end 3.85 -6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "59bd765e-b5f2-4c18-8ea3-8297399bdf82")
+	)
+	(fp_line
+		(start 3.85 6.75)
+		(end -20 6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "6911bf4c-772c-41e9-85cc-70f96b57387a")
+	)
+	(fp_arc
+		(start 3.85 -6.75)
+		(mid 10.6 0)
+		(end 3.85 6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "be913a30-7687-4b08-b4b5-d727c7714df9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f26fab81-99c6-4453-9c63-1220c761970a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/Momentary_Footswitch.step"
+		(offset
+			(xyz 0 0 -16)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -90)
+		)
+	)
+)

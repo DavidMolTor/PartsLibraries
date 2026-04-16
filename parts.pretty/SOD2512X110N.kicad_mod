@@ -39,7 +39,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 04af8d87-7e71-4798-8be4-28a920a581aa))
   (pad "1" smd rect (at -1.15 0 90) (size 0.5 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 76746649-fb19-4d8b-8907-d515d81c175d))
   (pad "2" smd rect (at 1.15 0 90) (size 0.5 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f55353b9-251e-4c4f-9b43-cd9c9392088b))
-  (model "E:/Otros/Electrónica/LibrariesPCB/Parts.3dshapes/BZX384-A5V1-QX.stp"
+  (model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/BZX384-A5V1-QX.stp"
     (offset (xyz -0.8 1.35 -0.72))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
