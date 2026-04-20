@@ -1,0 +1,228 @@
+(footprint "RS45111A900F"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "RS6011Y19004-3")
+	(tags "Variable Resistor")
+	(property "Reference" "VR**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "01f6dd96-22bb-4296-88d4-e48ebb3a2681")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RS45111A900F"
+		(at 35 1.25 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "92db1be9-7c6b-4310-a7a5-177edfb78e69")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9c5cfff-96f4-4f7e-ba92-37b8d359c963")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "afb6ffeb-23e2-43bd-98e1-d44f8df8b8f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -30.5 -4.25)
+		(end -30.5 4.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfa2a252-537c-4447-bb94-c2e0a9eeb860")
+	)
+	(fp_line
+		(start -30.5 -4.25)
+		(end 30.5 -4.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e31e063e-edf9-4f24-b91b-a67b012141a9")
+	)
+	(fp_line
+		(start -30.5 4.25)
+		(end 30.5 4.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "418c2ec8-abf2-4082-aac1-e9c5be3d163e")
+	)
+	(fp_line
+		(start 30.5 -4.25)
+		(end 30.5 4.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a5d9712e-3d05-43eb-9564-b961e816beee")
+	)
+	(fp_line
+		(start -30.75 -4.5)
+		(end -30.75 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3f7d2622-00df-4798-892f-d01856b5c3e7")
+	)
+	(fp_line
+		(start -30.75 -4.5)
+		(end 30.75 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "684bbceb-b127-4667-a91a-0128c2b6f1e7")
+	)
+	(fp_line
+		(start 30.75 -4.5)
+		(end 30.75 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0c564b8e-ddec-4497-989f-ce095a6cd7f0")
+	)
+	(fp_line
+		(start 30.75 4.5)
+		(end -30.75 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c28de104-9be0-491b-bbac-9770f8822850")
+	)
+	(fp_line
+		(start -30.5 -4.25)
+		(end -30.5 4.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "0fb40871-f832-4993-8b83-2be6314892b5")
+	)
+	(fp_line
+		(start -30.5 4.25)
+		(end 30.5 4.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "35a0d786-c0f3-4f52-aebb-7d5812230888")
+	)
+	(fp_line
+		(start 30.5 -4.25)
+		(end -30.5 -4.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "fef2272b-b4a9-4748-9d46-48649537e16a")
+	)
+	(fp_line
+		(start 30.5 4.25)
+		(end 30.5 -4.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5134fc48-41eb-41dc-a251-fff406e23f0b")
+	)
+	(pad "1" thru_hole rect
+		(at -25 1.875 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "53b98355-944a-4a8f-9c00-02e57c036a20")
+	)
+	(pad "2" thru_hole circle
+		(at -25 -1.875 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "85107ba5-abd3-4984-a502-db2eea2ca43e")
+	)
+	(pad "3" thru_hole circle
+		(at 25 1.875 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "142aa2b9-4296-44ad-b957-37f71fa8a079")
+	)
+	(pad "L1" thru_hole circle
+		(at -17.5 0 90)
+		(size 3 3)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "caf63bb9-2416-4894-b6fd-e735a1ec82e7")
+	)
+	(pad "L2" thru_hole circle
+		(at 15 0 90)
+		(size 3 3)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3f9fef8c-3a10-4ed4-96bf-ff4c1219e968")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/RS45111A900F.STEP"
+		(offset
+			(xyz -2.5 0 2.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,322 @@
+(footprint "RS6011Y19004"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "RS6011Y19004-3")
+	(tags "Variable Resistor")
+	(property "Reference" "VR**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "9069d9c4-baea-4100-8914-abf6c834374a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RS6011Y19004"
+		(at 35 1.25 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d2ac1803-2848-4674-9446-3501d7423aad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b187f0d-3624-4ca8-ac43-a890cc9d3317")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ba65734-602d-4003-bb06-8691a35037d3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -37.5 -4.5)
+		(end -37.5 4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c3015aa-2c39-4710-9fde-bb8935cc70ad")
+	)
+	(fp_line
+		(start -37.5 4.5)
+		(end -36.25 4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ee641fbf-03f5-4c50-9d6f-d9d0b4f2d799")
+	)
+	(fp_line
+		(start -36.25 -4.5)
+		(end -37.5 -4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3e7d75d5-4b10-4bc5-8f9e-698dcf48ea37")
+	)
+	(fp_line
+		(start -33.75 -4.5)
+		(end 37.5 -4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c3472021-7018-4e04-9ec5-e5db31c25351")
+	)
+	(fp_line
+		(start -33.75 4.5)
+		(end 33.75 4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5aed6caf-9820-499b-a9f3-2acf2112ae75")
+	)
+	(fp_line
+		(start 37.5 -4.5)
+		(end 37.5 4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9315703e-0dd4-4a90-b5f4-c53257acb0c1")
+	)
+	(fp_line
+		(start 37.5 4.5)
+		(end 36.25 4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "74af6e72-95df-446f-a50a-e92268ccf831")
+	)
+	(fp_line
+		(start -38.5 -5.575)
+		(end 38.5 -5.575)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a3f64aa6-3e00-435b-8059-ae032e9b83ac")
+	)
+	(fp_line
+		(start -38.5 5.575)
+		(end -38.5 -5.575)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "24d52f3b-04ae-45c8-bf5e-d6567f72bd3e")
+	)
+	(fp_line
+		(start -37.5 -4.5)
+		(end 37.5 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b39c2508-489d-4379-8104-960b935674a0")
+	)
+	(fp_line
+		(start -37.5 4.5)
+		(end -37.5 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ddad31db-2406-4580-8423-94fb37bb6449")
+	)
+	(fp_line
+		(start 37.5 -4.5)
+		(end 37.5 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "268a9060-cc0c-4775-82ea-b3d95818e155")
+	)
+	(fp_line
+		(start 37.5 4.5)
+		(end -37.5 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8538147d-16d3-43bb-a42b-21c1e9e0db6a")
+	)
+	(fp_line
+		(start 38.5 -5.575)
+		(end 38.5 5.575)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "fa28228a-5689-461a-8b6f-0924a4eb428f")
+	)
+	(fp_line
+		(start 38.5 5.575)
+		(end -38.5 5.575)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "f5bce1c7-329e-4abe-b829-7bd193a5fd81")
+	)
+	(fp_line
+		(start -37.7 -4.75)
+		(end 37.7 -4.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "3266db55-26e3-4cbc-961b-dc4bf479c4b5")
+	)
+	(fp_line
+		(start -37.7 4.75)
+		(end -37.7 -4.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d887043-298f-4860-8fbd-6a8deb3504af")
+	)
+	(fp_line
+		(start 37.7 -4.75)
+		(end 37.7 4.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e784ef43-9489-4e49-af8c-ee4805b26d02")
+	)
+	(fp_line
+		(start 37.7 4.75)
+		(end -37.7 4.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "18a3401e-c0fe-468d-ab11-75a4aa7ff327")
+	)
+	(pad "1" thru_hole rect
+		(at -35 -1.25 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "0c371f97-a49d-4e86-98d2-8cd8a3e773a1")
+	)
+	(pad "2" thru_hole circle
+		(at -35 -3.75 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1a802a0f-65c1-47c0-89d4-85881c4c151a")
+	)
+	(pad "3" thru_hole circle
+		(at 35 -1.25 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5cf925bf-85e4-41a1-827a-ffdd720d9488")
+	)
+	(pad "L1" thru_hole circle
+		(at -35 1.25 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f125b1b2-2041-4ae2-99cb-c7dd8610094e")
+	)
+	(pad "L2" thru_hole circle
+		(at -35 3.75 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "37c866f6-4224-4a43-98e5-e05b8adc3b58")
+	)
+	(pad "L3" thru_hole circle
+		(at 35 3.75 90)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "916a45ce-fd53-46a8-a5cb-abf845db7859")
+	)
+	(pad "L4" thru_hole circle
+		(at -25 0 90)
+		(size 3 3)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "80ffe69d-5acb-4763-9fe8-3c347c2837b4")
+	)
+	(pad "L5" thru_hole circle
+		(at 22.5 0 90)
+		(size 3 3)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fe4e3935-f982-4539-b6a9-1ba24b547f63")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/RS6011Y19004.step"
+		(offset
+			(xyz 0 0 5.8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
