@@ -8,7 +8,7 @@
 	(property "Reference" "VR**"
 		(at 0 0 0)
 		(layer "F.SilkS")
-		(uuid "8324bea6-3a70-4e29-9bfc-d6f6c8a79a4a")
+		(uuid "098806b4-3b06-4d70-92c7-8290da2a6ad2")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +20,7 @@
 		(at 35 1.25 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "f919751b-2b07-45d8-8379-55f7ba2fc526")
+		(uuid "77b1c920-91ab-403e-a23b-93fe7afdd3e4")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f31e2291-1c1d-4fff-991e-4299f898749f")
+		(uuid "c9d67e5c-1b08-43f5-89bf-e88540c2e569")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6ea953fd-2cc3-4c21-8f56-f9413baaf013")
+		(uuid "72b92684-721e-40c1-a7b1-cb2841302fc0")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -60,7 +60,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "cc7514a5-19e6-412f-b092-48911dd29ab9")
+		(uuid "320cbdba-0ca1-46c5-97cb-a090fbfc2e9d")
 	)
 	(fp_line
 		(start -23 -4.25)
@@ -70,7 +70,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "45de58a0-100a-4eff-a4c2-6bfa0790a138")
+		(uuid "a1f09f2d-e602-40d8-94c3-f899852b576e")
 	)
 	(fp_line
 		(start -23 4.25)
@@ -80,7 +80,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4e6bf401-2f56-4a00-8032-5b9a69cf2773")
+		(uuid "481a20d0-a3db-4731-87b1-d70a3e45f7c0")
 	)
 	(fp_line
 		(start 23 -4.25)
@@ -90,7 +90,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "6b26c358-fd4f-4dbc-90bf-67f7df11672d")
+		(uuid "c4fae88e-4961-4323-bad4-df9ce9011420")
 	)
 	(fp_line
 		(start -23.25 -4.5)
@@ -100,7 +100,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "7cc734e3-cad9-4a2d-b028-447a5197f069")
+		(uuid "53b288c1-33f9-4cc5-ad57-c20312599559")
 	)
 	(fp_line
 		(start -23.25 -4.5)
@@ -110,7 +110,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "d8274bfd-0373-4eca-9167-b56d793f285a")
+		(uuid "f726f380-6034-400d-a8f6-80b57e2bec90")
 	)
 	(fp_line
 		(start 23.25 -4.5)
@@ -120,7 +120,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "d099a7d6-aebb-473b-a9c1-fc0d932c0efb")
+		(uuid "a20b6171-0d76-4b67-9b2e-84140bb1b8ae")
 	)
 	(fp_line
 		(start 23.25 4.5)
@@ -130,7 +130,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "72ff1092-3f3a-4518-9edb-509c36225c73")
+		(uuid "d60d9039-94da-4dfd-a866-32d8c4a7efd1")
 	)
 	(fp_line
 		(start -23.25 -4.5)
@@ -140,7 +140,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "c25ea5eb-6ccb-49d1-87a1-7b7285316b94")
+		(uuid "da37f856-b6bf-4af6-bc34-e7e09bc67d94")
 	)
 	(fp_line
 		(start -23.25 -4.5)
@@ -150,7 +150,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "4ae6cb75-8d63-4b70-89c8-34131cdeec27")
+		(uuid "1df1722e-2ed1-48e0-963b-a52eb7dbfce3")
 	)
 	(fp_line
 		(start -23.25 4.5)
@@ -160,7 +160,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "9cae09ef-29ba-4713-9449-8f7b27a6799d")
+		(uuid "8f86260c-5f5f-4d39-9071-5c5f252be27c")
 	)
 	(fp_line
 		(start 23.25 4.5)
@@ -170,7 +170,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "eb4c7012-bd95-496a-8169-151ff73af6f5")
+		(uuid "effa2dc0-9fd5-4c97-be8b-b24c05143333")
 	)
 	(pad "1" thru_hole rect
 		(at -17.5 1.875 90)
@@ -179,7 +179,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(thermal_bridge_angle 45)
-		(uuid "820490e1-b21c-47e3-aed7-dee9436de514")
+		(uuid "d1199726-57d3-4497-87e5-01c710eaede0")
 	)
 	(pad "2" thru_hole circle
 		(at -17.5 -1.875 90)
@@ -187,7 +187,7 @@
 		(drill 1.1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "9405bd24-f56c-4447-9627-38ea12ec64f0")
+		(uuid "ba3eead5-b3e3-4fe3-8ab0-0ecdc47a5d04")
 	)
 	(pad "3" thru_hole circle
 		(at 17.5 1.875 90)
@@ -195,23 +195,23 @@
 		(drill 1.1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "258bcddf-4f8a-4e9a-9565-8a9478f73953")
+		(uuid "4e217bdb-ed61-4fcc-b1a2-eb9feb0c85f7")
 	)
-	(pad "L1" thru_hole circle
+	(pad "MP" thru_hole circle
 		(at -12.5 0 90)
 		(size 3 3)
 		(drill 2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "b5fc43c1-ca7e-412c-9844-a016d324a002")
+		(uuid "182e7065-3758-4fb9-b079-8d6a38188a45")
 	)
-	(pad "L2" thru_hole circle
+	(pad "MP" thru_hole circle
 		(at 10 0 90)
 		(size 3 3)
 		(drill 2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "e1f4b87f-14c6-4be7-959b-ba1a70a583bb")
+		(uuid "971be881-e8a4-46b2-9c6a-bb66d2031978")
 	)
 	(embedded_fonts no)
 	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/RS30111A9012.STEP"
