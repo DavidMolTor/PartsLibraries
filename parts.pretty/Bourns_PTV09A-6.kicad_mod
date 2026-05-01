@@ -1,0 +1,254 @@
+(footprint "Bourns_PTV09A-6"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf")
+	(tags "Potentiometer vertical Bourns PTV09A-1 Single")
+	(property "Reference" "REF**"
+		(at 6.05 -10.35 0)
+		(layer "F.SilkS")
+		(uuid "462936e6-a62f-4e52-a1c6-550b70c554a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Bourns_PTV09A-6"
+		(at 6.05 5.35 0)
+		(layer "F.Fab")
+		(uuid "0ad49e37-2923-4abf-a20e-7b7ecf894f47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b94c06cb-a976-49a6-a4f9-8f9af760584b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec673243-07c2-4171-b782-c08ff12968d8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "potentiometer/THT"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "cfa65d33-6107-45a4-a6c9-6a9a96346d7f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 0.89 -7.46)
+		(end 4.635 -7.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef376ca7-a47d-45dd-a909-41527956574d")
+	)
+	(fp_line
+		(start 0.89 -5.696)
+		(end 0.89 -7.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0cbd3b7-f08a-4339-9c7f-59a15f7b28f8")
+	)
+	(fp_line
+		(start 0.89 -3.196)
+		(end 0.89 -4.304)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "926612bd-ebe9-4bb0-be82-b154e99697e9")
+	)
+	(fp_line
+		(start 0.89 -0.696)
+		(end 0.89 -1.804)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1a47b44b-769f-484e-b73b-8490e10f4b4c")
+	)
+	(fp_line
+		(start 0.89 2.46)
+		(end 0.89 0.696)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a4cbe30-637b-40b4-8033-8605a587e4e1")
+	)
+	(fp_line
+		(start 4.635 2.46)
+		(end 0.89 2.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9dcc4e4f-2a82-432c-a553-a2f29f0b297d")
+	)
+	(fp_line
+		(start 9.365 -7.46)
+		(end 12.3 -7.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7d5b701f-fc92-4280-aa6d-c3a57c986e1a")
+	)
+	(fp_line
+		(start 12.3 -7.46)
+		(end 12.3 2.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ac39ecdd-8a5f-4a01-b76c-c39f67cae9bd")
+	)
+	(fp_line
+		(start 12.3 2.46)
+		(end 9.365 2.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27c5e7f7-9dfa-4b7b-9d27-d42e5353158a")
+	)
+	(fp_rect
+		(start -1.15 -9.36)
+		(end 12.6 4.36)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "cad7c252-2cf2-436a-9248-2b09ef88663b")
+	)
+	(fp_rect
+		(start 1 -7.35)
+		(end 12.2 2.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "151e7417-5d91-4abc-8f10-e662d53820cf")
+	)
+	(fp_circle
+		(center 7 -2.5)
+		(end 10 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1cace046-8ab0-49c1-83d7-6dab1ae1cb3d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2 -2.5 90)
+		(layer "F.Fab")
+		(uuid "78ed7c4e-571b-4bd1-9024-07e2a50d8c63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ee62eeec-d05c-4842-9bd0-746bbf6e06aa")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -2.5)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c6684137-7c36-4458-9c1e-68efef6059b9")
+	)
+	(pad "3" thru_hole circle
+		(at 0 -5)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f00ee0bb-5c59-4464-b325-c20beb692bdb")
+	)
+	(pad "MP" thru_hole roundrect
+		(at 7 -6.9 180)
+		(size 4 3)
+		(drill oval 2.1 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "f830b362-581a-4380-ac2d-d1a1ca637952")
+	)
+	(pad "MP" thru_hole roundrect
+		(at 7 1.9 180)
+		(size 4 3)
+		(drill oval 2.1 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "285a588e-b4fa-463d-8eec-3956e29462e6")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/PTV09A-6030U-B103.stp"
+		(offset
+			(xyz 7 2.5 -3.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 90)
+		)
+	)
+)
