@@ -1,0 +1,244 @@
+(footprint "MINI_TOGGLE_SHIELD"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -7 0)
+		(layer "F.SilkS")
+		(uuid "9d24eccb-56dc-4568-a685-d7fa0c0b03f6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_100SP1T1B4M2QE"
+		(at 0 7.6 0)
+		(layer "F.Fab")
+		(uuid "34ffdceb-2a0a-4246-b8f8-169a168563f6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1527ddcc-36d5-4530-bb69-9bad32c0e13d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "31258d6c-e86d-4983-a7ab-b566184acc3c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.8 5.4)
+		(end -2.8 -5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0ff0ebf3-30ec-4541-8155-1602cb99e18b")
+	)
+	(fp_line
+		(start -1.4 -5.4)
+		(end -2.8 -5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9833960f-c382-4e12-bfca-960fd1c995e5")
+	)
+	(fp_line
+		(start -1.4 5.4)
+		(end -2.8 5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ffd0535d-636b-4cf1-b52c-5a5fd251d321")
+	)
+	(fp_line
+		(start 2.8 -5.4)
+		(end 1.4 -5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9307a74a-ffe8-42f7-bcf1-82a5fe38f3d0")
+	)
+	(fp_line
+		(start 2.8 -5.4)
+		(end 2.8 5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "723674d4-0e23-43cf-bf45-385460cac66c")
+	)
+	(fp_line
+		(start 2.8 5.4)
+		(end 1.4 5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd0604d6-df73-45c8-8419-62956aef651b")
+	)
+	(fp_line
+		(start -3 -6)
+		(end -3 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e95777c0-b67f-4a71-a481-122fbe15365e")
+	)
+	(fp_line
+		(start -3 6)
+		(end 3 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4aa571c7-a605-4b0d-853c-a453d443d9ae")
+	)
+	(fp_line
+		(start 3 -6)
+		(end -3 -6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9d0b9a54-4910-496e-aa9f-4e504ca59610")
+	)
+	(fp_line
+		(start 3 6)
+		(end 3 -6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2f9ecc24-2ae7-4b2e-8a45-a304fdf14c39")
+	)
+	(fp_line
+		(start -2.8 -5.4)
+		(end -2.8 5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1fcf3805-fe0c-4fe5-91ab-2ebc35e59698")
+	)
+	(fp_line
+		(start -2.8 5.4)
+		(end 2.8 5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "802083db-8400-4a1f-be0f-e64de566d0c7")
+	)
+	(fp_line
+		(start 2.8 -5.4)
+		(end -2.8 -5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d7ce714e-1f25-4ee7-875d-1c14e3d92279")
+	)
+	(fp_line
+		(start 2.8 5.4)
+		(end 2.8 -5.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5bac1110-524c-4483-bba2-c292540b031c")
+	)
+	(pad "1" thru_hole rect
+		(at 0 -2.54)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b8fa67a1-d963-43ab-81c2-239eec14104a")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f6a008b4-665f-478e-bf71-ed9f72fd1f82")
+	)
+	(pad "3" thru_hole circle
+		(at 0 2.54)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e570eab7-c6c3-4bd8-abee-e4d6a9f9986d")
+	)
+	(pad "MP" thru_hole circle
+		(at 0 -5.08)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d6e1c333-aba4-4216-bfba-880a818b804b")
+	)
+	(pad "MP" thru_hole circle
+		(at 0 5.08)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e28d5d27-9159-4c95-afc5-ddddd22d59a1")
+	)
+	(embedded_fonts no)
+	(model "${CUSTOM_PARTS_LIBRARY_DIR}/parts.3dshapes/MINI_TOGGLE_SHIELD.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
